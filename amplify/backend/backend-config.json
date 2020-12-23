@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "mikes2d1fe6a45": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
